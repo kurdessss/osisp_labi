@@ -1,0 +1,8 @@
+ECHO "Hello World"
+LIST
+CD dir1/dir1.1
+LIST
+INFO
+CD ..
+LIST
+QUIT
